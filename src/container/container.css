@@ -1,0 +1,29 @@
+
+.product{
+    background-size: cover;
+    background-position: center; 
+    position: relative;
+    bottom:px;
+}
+.itemname{
+    color: #000;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-family: 'Varela Round', sans-serif;
+    
+    font-size: 16px;
+    position: relative;
+    top:20px;
+  /* //  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  background-color: rgb(255, 255, 255);
+    
+   
+}
+.price{
+    position: relative;
+    top:18px;
+    color:rgb(211, 81, 81);
+    background-color: rgb(255, 255, 255);
+    border-radius:0px 0px 10px 10px;
+    font-family:sans-serif;
+    
+}
